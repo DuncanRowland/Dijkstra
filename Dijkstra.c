@@ -15,7 +15,7 @@ int NUMNODES=NaN;
 char N(i) {
    static char N[]={'A','B','C','D','E','F','G'};
    return N[i];
- }
+}
 
 int NUMEDGES=24;
 edge e[]={
